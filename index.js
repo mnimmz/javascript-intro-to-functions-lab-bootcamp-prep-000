@@ -17,3 +17,4 @@ function logWhisper(string){
   spy.toLowerCase() === spy;
   console.log(spy);
 }
+
